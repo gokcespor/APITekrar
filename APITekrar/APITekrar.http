@@ -1,0 +1,6 @@
+@APITekrar_HostAddress = http://localhost:5139
+
+GET {{APITekrar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
